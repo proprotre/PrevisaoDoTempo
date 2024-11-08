@@ -87,7 +87,7 @@ namespace PrevisaoDoTempo
             using (HttpClient client = new HttpClient())
             {
                 string url = $"{baseUrl}?latitude={latitude}&longitude={longitude}&current_weather=true";
-                rtbRetorno.Text += url;
+
                 try
                 {
                     HttpResponseMessage response = await client.GetAsync(url);
