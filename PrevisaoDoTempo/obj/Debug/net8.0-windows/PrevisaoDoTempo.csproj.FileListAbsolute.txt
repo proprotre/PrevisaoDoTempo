@@ -18,3 +18,4 @@ C:\Users\Badaro\source\repos\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\net8.0-wi
 C:\Users\Badaro\source\repos\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\net8.0-windows\PrevisaoDoTempo.pdb
 C:\Users\Badaro\source\repos\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\net8.0-windows\PrevisaoDoTempo.genruntimeconfig.cache
 C:\Users\Badaro\source\repos\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\net8.0-windows\ref\PrevisaoDoTempo.dll
+C:\Users\Badaro\source\repos\PrevisaoDoTempo\PrevisaoDoTempo\obj\Debug\net8.0-windows\PrevisaoDoTempo.sourcelink.json
