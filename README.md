@@ -6,7 +6,7 @@
 
 ## Funcionalidades
 
-- **Consulta de Clima por Cidade**: Selecione uma cidade do Brasil na lista e consulte as informações do clima atual, incluindo temperatura e condições climáticas.
+- **Consulta de Clima por Cidade**: Selecione uma cidade do Brasil e consulte as informações do clima atual, incluindo temperatura e condições climáticas.
 - **Exibição de Informações Detalhadas**: A aplicação exibe o clima atual da cidade selecionada, com uma descrição do tempo e a velocidade do vento.
   
 ## Seleção de Cidades
@@ -18,7 +18,6 @@
 ## Lista de Capitais Brasileiras Disponíveis
 As seguintes cidades estão disponíveis para consulta:
 
-- Rio Branco - AC
 - Maceió - AL
 - Macapá - AP
 - Manaus - AM
