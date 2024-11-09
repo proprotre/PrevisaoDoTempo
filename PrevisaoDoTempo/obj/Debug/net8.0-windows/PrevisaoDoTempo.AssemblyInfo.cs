@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Gabriel Badaró 2024")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2024.11.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2024.11.1+3bc64bef9048bee73313b6adcb6dc9ffaed0d74d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2024.11.1+51d7da63a5baf6fa9246a4ecc0dc495d674dc6a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrevisaoDoTempo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrevisaoDoTempo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2024.11.1")]

@@ -145,7 +145,7 @@ namespace PrevisaoDoTempo
             }
             else
             {
-                MessageBox.Show("Cidade não encontrada na lista de capitais.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Cidade não encontrada na lista", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

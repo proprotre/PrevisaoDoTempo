@@ -82,7 +82,7 @@
             cbCidades.FlatStyle = FlatStyle.Popup;
             cbCidades.Font = new Font("Arial", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cbCidades.FormattingEnabled = true;
-            cbCidades.Items.AddRange(new object[] { "Presidente Prudente - SP", "Rio Branco - AC", "Maceió - AL", "Macapá - AP", "Manaus - AM", "Salvador - BA", "Fortaleza - CE", "Brasília - DF", "Vitória - ES", "Goiânia - GO", "São Luís - MA", "Cuiabá - MT", "Campo Grande - MS", "Belo Horizonte - MG", "Belém - PA", "João Pessoa - PB", "Curitiba - PR", "Recife - PE", "Teresina - PI", "Rio de Janeiro - RJ", "Natal - RN", "Porto Alegre - RS", "Porto Velho - RO", "Boa Vista - RR", "Florianópolis - SC", "São Paulo - SP", "Aracaju - SE", "Palmas - TO" });
+            cbCidades.Items.AddRange(new object[] { "Presidente Prudente - SP", "Maceió - AL", "Macapá - AP", "Manaus - AM", "Salvador - BA", "Fortaleza - CE", "Brasília - DF", "Vitória - ES", "Goiânia - GO", "São Luís - MA", "Cuiabá - MT", "Campo Grande - MS", "Belo Horizonte - MG", "Belém - PA", "João Pessoa - PB", "Curitiba - PR", "Recife - PE", "Teresina - PI", "Rio de Janeiro - RJ", "Natal - RN", "Porto Alegre - RS", "Porto Velho - RO", "Boa Vista - RR", "Florianópolis - SC", "São Paulo - SP", "Aracaju - SE", "Palmas - TO" });
             cbCidades.Location = new Point(232, 70);
             cbCidades.Name = "cbCidades";
             cbCidades.Size = new Size(336, 27);

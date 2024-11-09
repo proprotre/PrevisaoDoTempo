@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Badaro\\source\\repos\\PrevisaoDoTempo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C62F537-5BF1-4AAD-865F-9884D21901D0}|PrevisaoDoTempo\\PrevisaoDoTempo.csproj|C:\\Users\\Badaro\\source\\repos\\PrevisaoDoTempo\\previsaodotempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6C62F537-5BF1-4AAD-865F-9884D21901D0}|PrevisaoDoTempo\\PrevisaoDoTempo.csproj|c:\\users\\badaro\\source\\repos\\previsaodotempo\\previsaodotempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6C62F537-5BF1-4AAD-865F-9884D21901D0}|PrevisaoDoTempo\\PrevisaoDoTempo.csproj|solutionrelative:previsaodotempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -51,7 +51,7 @@
               "RelativeDocumentMoniker": "PrevisaoDoTempo\\Form1.cs",
               "ToolTip": "C:\\Users\\Badaro\\source\\repos\\PrevisaoDoTempo\\PrevisaoDoTempo\\Form1.cs",
               "RelativeToolTip": "PrevisaoDoTempo\\Form1.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAhwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwJMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T22:33:37.64Z",
               "EditorCaption": ""
